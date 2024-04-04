@@ -2,9 +2,9 @@
 # About me
 
 ## Name
-** Yunfei Shih **
+Yunfei Shih
 ## Education
-** UCSD - __Computer Science__ **
+UCSD - __Computer Science__
 
 ### _introduces_
 - [x] Basic introduces
