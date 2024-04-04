@@ -6,6 +6,12 @@ github.com/SelineSh/week1/blob/main/index.md?#L5
 ** Yunfei Shih **
 ## Education
 ** UCSD - __Computer Science__ **
+
+### _introduces_
+- [x] Basic introduces
+- [ ] more introduces
+:tada:
+
 ## Project
 ### Teach Computational Thinking
 [sites page](https://sites.google.com/view/yunfeishih/home)
@@ -13,9 +19,3 @@ github.com/SelineSh/week1/blob/main/index.md?#L5
 ## Favorite Codes
 `System.out.print("Hello World"); `
 > Because this is the code I learned when I first got into coding
-
-## Did you like my introduces?
-- [x] \(Optional) Yes
-- [ ] \(Optional) Keep doing
-- [ ] \(Optional) No
-:tada:
