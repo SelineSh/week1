@@ -15,7 +15,7 @@ github.com/SelineSh/week1/blob/main/index.md?#L5
 > Because this is the code I learned when I first got into coding
 
 ## Did you like my introduces?
--[ ] \(Optional) Yes
--[ ] \(Optional) Keep doing
--[ ] \(Optional) No
+-[x] Yes
+-[ ] Keep doing
+-[ ] No
 :tada:
