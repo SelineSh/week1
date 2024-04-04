@@ -1,9 +1,6 @@
 ![A hand came out of a computer wearing a bachelor's hat](https://www.24x7assignmenthelp.com/wp-content/uploads/2017/03/24x7assignmenthelp.com-Ways-to-Study-Computer-Science.jpg)
 # About me
-github.com/SelineSh/week1/blob/main/index.md?plain=1#L8
-github.com/SelineSh/week1/blob/main/index.md?plain=1#L10
-github.com/SelineSh/week1/blob/main/index.md?plain=1#L12
-github.com/SelineSh/week1/blob/main/index.md?plain=1#L16
+github.com/SelineSh/week1/blob/main/index.md?#L5
 
 ## Name
 ** Yunfei Shih **
@@ -21,3 +18,4 @@ github.com/SelineSh/week1/blob/main/index.md?plain=1#L16
 -[ ] \(Optional) Yes
 -[ ] \(Optional) Keep doing
 -[ ] \(Optional) No
+:tada:
