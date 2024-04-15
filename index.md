@@ -9,7 +9,6 @@ UCSD - __Computer Science__
 ### _introduces_
 - [x] Basic introduces
 - [ ] more introduces
-:tada:
 
 ## Project
 ### Teach Computational Thinking
